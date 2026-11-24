@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+diagnostics-*.png
+lunarnx-diagnostics.png
+models/**/*.onnx
+models/**/*.txt
